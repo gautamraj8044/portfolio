@@ -55,7 +55,7 @@ elif page == "Contact":
     st.header("Get in Touch")
     st.write("Feel free to reach out to me via the following channels:")
     st.write("- **Email**: [gautamraj8044@gmail.com](mailto:gautamraj8044@gmail.com)")
-    st.write("- **LinkedIn**: [Your LinkedIn](https://github.com/gautamraj8044/)")
+    st.write("- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/gautamraj8044/)")
     st.write("- **GitHub**: [Your GitHub](https://github.com/gautamraj8044)")
 
     st.write("I’m always open to discussing new projects, creative ideas, or opportunities to be part of your vision.")
